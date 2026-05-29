@@ -17,7 +17,7 @@
 - 💼 Currently interning as a **Software Development Intern @ DeepTek.ai** — working at the intersection of medical AI, Transformer workflows, and scalable backend systems
 - ⚡ Passionate about **GPU computing and AI systems** — from writing low-level CUDA kernels to deploying end-to-end ML pipelines
 - 🎯 Driven by a long-term vision of becoming an **AI Engineer in the semiconductor space** — where hardware meets intelligence
-- 🏍️ Fitness enthusiast, bike ridding, and occasional swimmer — I believe a strong body fuels a sharper mind
+- 🏍️ Fitness enthusiast, bike rider, and occasional swimmer — I believe a strong body fuels a sharper mind
 
 ---
 
