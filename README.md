@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, Shravan Upadhye Here</h1>
 
 <p align="center">
-  <b>GPU Systems & AI Engineer &nbsp;|&nbsp; CUDA Kernel Dev &nbsp;|&nbsp; ML Systems Builder &nbsp;|&nbsp; Semiconductor AI Enthusiast</b>
+  <b>ENTC Undergrad &nbsp;|&nbsp; ML & Systems &nbsp;|&nbsp; Building at the edge of AI and Hardware &nbsp;|&nbsp; Semiconductor AI Enthusiast</b>
 </p>
 
 <p align="center">
